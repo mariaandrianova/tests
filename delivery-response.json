@@ -9,10 +9,10 @@
             "type": "delivery",
             "price": 0,
             "min": 2,
-			"max": 3,
+	    "max": 3,
             "timeLabel": "2-3 working days",
-			"dateIntervals":
-			[
+	    "dateIntervals":
+		[
                 {
                     "id": "01-10-22",
                     "title": "1 oct",
